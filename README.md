@@ -6,8 +6,9 @@ pkg update
 pkg upgrde
 
 
-pkg install python2
+pkg install python
 
+pkg install python3
 
 pkg install git
   
