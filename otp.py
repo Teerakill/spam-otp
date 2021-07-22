@@ -64,7 +64,7 @@ def generate_info():
 
 
 def start():
-    info = Fore.BLUE+Style.BRIGHT+f'\n[เบอร์เป้าหมาย]{phone}\n[จำนวน] {count}'+'\nถ้าจะหยุดให้กดCTRL z'+Style.RESET_ALL
+    info = Fore.BLUE+Style.BRIGHT+f'\n[เบอร์เป้าหมาย]{phone}\n[จำนวน] {count}'+'\nถ้าจะหยุดให้กดCTRL-z'+Style.RESET_ALL
     print(info)
     global iteration
     iteration = 0
