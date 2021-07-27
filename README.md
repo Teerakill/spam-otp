@@ -13,3 +13,5 @@ pkg install python3
 pkg install git
   
 git clone https://github.com/Teerakill/spam-otp
+
+python otp.py
