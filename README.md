@@ -14,4 +14,6 @@ pkg install git
   
 git clone https://github.com/Teerakill/spam-otp
 
+cd spam-otp
+
 python otp.py
